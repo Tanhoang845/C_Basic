@@ -18,14 +18,14 @@ Các thuật toán sắp xếp, tìm kiếm trên các cấu trúc dữ liệu k
   + Lưu nội dung danh bạ hiện tại ra file.
 - Test các giải thuật sắp xếp khác nhau trên một Mảng dữ liệu, so sánh thời gian chạy thực tế của các giải thuật.
 
-#HƯỚNG DẪN SỬ DỤNG MÃ NGUỒN.
+# HƯỚNG DẪN SỬ DỤNG MÃ NGUỒN.
 - Chuẩn bị code và môi trường.
-+ Bước 1: Clone hoặc tải code về máy.
-+ Bước 2: Mở Terminal nếu ở Linux. Mở Terminal trong Visual Studio Code nếu ở Windown.
-+ Bước 3: Change dictionary của Terminal đến file code. VD: \..\C_Basic
-+ Bước 4: Change dictionary của Terminal đến file code tương ứng cần chạy.VD: \..\C_Basic\Test Sorting on Array
+  + Bước 1: Clone hoặc tải code về máy.
+  + Bước 2: Mở Terminal nếu ở Linux. Mở Terminal trong Visual Studio Code nếu ở Windown.
+  + Bước 3: Change dictionary của Terminal đến file code. VD: \..\C_Basic
+  + Bước 4: Change dictionary của Terminal đến file code tương ứng cần chạy.VD: \..\C_Basic\Test Sorting on Array
 - Chạy code.
-+ Bước 5: Nhập "make" trong Terminal.
-+ Bước 6: Nhập ".\test" trong Terminal Ubuntu. "\.test.exe" trong Terminal Visual Studio Code trong Windown.
+  + Bước 5: Nhập "make" trong Terminal.
+  + Bước 6: Nhập ".\test" trong Terminal Ubuntu. "\.test.exe" trong Terminal Visual Studio Code trong Windown.
 
 Thông tin liên lạc với tác giả: tanhoang845@gmail.com 0398298206.
