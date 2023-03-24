@@ -26,6 +26,6 @@ Các thuật toán sắp xếp, tìm kiếm trên các cấu trúc dữ liệu k
   + Bước 4: Change dictionary của Terminal đến file code tương ứng cần chạy.VD: \..\C_Basic\Test Sorting on Array
 - Chạy code.
   + Bước 5: Nhập "make" trong Terminal.
-  + Bước 6: Nhập ".\test" trong Terminal Ubuntu. ".\test.exe" trong Terminal Visual Studio Code trong Windown.
+  + Bước 6: Nhập ".\test" trong Terminal Ubuntu. Hoặc ".\test.exe" trong Terminal Visual Studio Code trong Windown.
 
 Thông tin liên lạc với tác giả: tanhoang845@gmail.com 0398298206.
